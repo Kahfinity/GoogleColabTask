@@ -16,7 +16,7 @@ Proyek ini merupakan bagian dari mata kuliah **Big Data** yang bertujuan untuk m
 📦 Proyek Big Data
  ┣ 📜 README.md  (Dokumentasi ini)
  ┣ 📜 "big_data_analysis".ipynb  (Notebook utama)
- ┣ 📂 dataset  (Folder penyimpanan dataset yang digunakan)
+ ┣ 📂 Dataset  (Folder penyimpanan dataset yang digunakan)
  ┗ 📂 images  (Gambar visualisasi hasil analisis)
 ```
 ## 🚀 Cara Menjalankan
